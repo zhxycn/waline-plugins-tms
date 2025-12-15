@@ -1,14 +1,16 @@
 # waline-plugins-tms
 
+![NPM Version](https://img.shields.io/npm/v/waline-plugins-tms) ![NPM Downloads](https://img.shields.io/npm/dm/waline-plugins-tms)
+
 A Waline plugin that adds Tencent Cloud TMS content moderation to Waline when a new comment is posted.
 
-## How to Install
+## How to install
 
 ```sh
 npm i waline-plugins-tms
 ```
 
-## How to Use
+## How to use
 
 ```js
 // index.js
